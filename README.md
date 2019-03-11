@@ -1,3 +1,3 @@
 # mozfest-design-2019
 
-Tracking Airtable: https://airtable.com/tblrkCCn0zaSKBMA1/viwahcA2hUhupPwhK
+Tracking Airtable: https://airtable.com/tbli7XydbQM5EQWJX/viwgQfnENKlJitjua
